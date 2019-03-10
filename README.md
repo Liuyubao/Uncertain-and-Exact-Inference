@@ -25,18 +25,13 @@
 
 
 
-## 1.What I did?
-* implemented the representaion of bayesNet
-* implemented the inference by enumeration
-* implemented parser to parse the BayesNet from a xml
-* implemented class to store the probability distribution
-* implemented inference by approximate inference: Rejection, Likelihood, Gibbs sampling
-* implemented variable elimination
-* all the command line parameters codings (main functions)
-* testing on all xmls in examples
-* created tables and graph to compare the results
-* write README
-
+## 1.What I have implemented?
+* the representaion of bayesNet
+* the inference by enumeration
+* parser to parse the BayesNet from a xml
+* class to store the probability distribution
+* inference by approximate inference: Rejection, Likelihood, Gibbs sampling
+* variable elimination
 
 
 ## 2. Environment:
