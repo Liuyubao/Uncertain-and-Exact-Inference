@@ -1,4 +1,4 @@
-# Uncertain-and-Approximate-Inference
+# Uncertain-and-Exact-Inference
 
     Yubao Liu
     Nov 23, 2018
