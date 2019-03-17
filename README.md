@@ -256,7 +256,7 @@ The recursion is called for much less times. In the aima-alarm.xml example, the 
 ##### 6.2.2.3 Time consumed
 It is quick since there is not many varibles. In the aima-alarm.xml example, the time consumed to calculate is 0.00027489662170410156 second.
 
-### 6.3 Regiontion sampling
+### 6.3 Rejection sampling
 #### 6.3.1 Algorithm explaintion
 Rejection sampling is a general method for producing samples from a hard-to-sample distribution given an easy-to-sample distribution. In its simplest form, it can be used to compute conditional probabilities that is, to determine P(X |e). First, it generates samples from the prior distribution specified by the network. Then, it rejects all those that do not match the evidence. Finally, the estimate Pˆ(X = x | e) is obtained by counting how often X = x occurs in the remaining samples.
 
