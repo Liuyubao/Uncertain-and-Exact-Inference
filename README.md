@@ -15,7 +15,7 @@
 6. Algorithms
   * 6.1 Enumeration ask
   * 6.2 variable Elimination Ask
-  * 6.3 Regiontion sampling
+  * 6.3 Regecttion sampling
   * 6.4 Likelihood weighting sampling
   * 6.5 Gibbs sampling
 7. Algorithms Comparison
