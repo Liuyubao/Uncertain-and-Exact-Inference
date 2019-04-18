@@ -323,7 +323,9 @@ the time consumed to caculate:  8.250781774520874
 
 
 <img src="pictures/pic6.3.2.1.png" width="750">
+
 ##### 6.3.2.1 Correctness
+
 From the results showed above, when the N is larger, the correctness is improved. But when the N is very large, the result is still not that correct.
 * N = 1000: result = (0, 1)
 * N = 10000: result = (0.4375, 0.5625)
@@ -333,6 +335,7 @@ From the results showed above, when the N is larger, the correctness is improved
 <img src="pictures/pic6.3.2.1.1.png" width="300">
 
 ##### 6.3.2.2 Time consumed
+
 From the results showed above, when the N is larger, the time consumed is increased. When the N is very large, it need a lot of time.
 * N = 1000: time consumed = 0.00891423225402832
 * N = 10000: time consumed = 0.0893242359161377
@@ -412,7 +415,9 @@ the time consumed to caculate:  8.189713954925537
 
 ```
 <img src="pictures/pic6.4.2.1.png" width="750">
+
 ##### 6.4.2.1 Correctness
+
 From the results showed above, when the N is larger, the correctness is not changed a lot. When the N is small, the result is even very near to correct answer.
 * N = 1000: result = (0.2637638685367446, 0.7362361314632554)
 * N = 10000: result = (0.21674442604974414, 0.7832555739502558)
@@ -422,6 +427,7 @@ From the results showed above, when the N is larger, the correctness is not chan
 <img src="pictures/pic6.4.2.1.1.png" width="300">
 
 ##### 6.4.2.2 Time consumed
+
 From the results showed above, when the N is larger, the time consumed is increased. When the N is very large, it need a lot of time.
 * N = 1000: time consumed = 0.007827281951904297
 * N = 10000: time consumed = 0.07909202575683594
@@ -511,6 +517,7 @@ the time consumed to caculate:  36.08786201477051
 <img src="pictures/pic6.5.2.1.png" width="750">
 
 ##### 6.5.2.1 Correctness
+
 Above all, the result is most near the correct answer compared with algorithms above. From the results showed above, when the N is larger, the correctness is not changed a lot. When the N is small, the result is even very near to correct answer.
 * N = 1000: result = (0.301, 0.699)
 * N = 10000: result = (0.287, 0.713)
@@ -520,6 +527,7 @@ Above all, the result is most near the correct answer compared with algorithms a
 <img src="pictures/pic6.5.2.1.1.png" width="300">
 
 ##### 6.5.2.2 Time consumed
+
 From the results showed above, when the N is larger, the time consumed is increased. When the N is very large, it need a lot of time. Compared with the above sampling, it need more time given the same number of samples.
 * N = 1000: time consumed = 0.04221320152282715
 * N = 10000: time consumed = 0.38462066650390625
