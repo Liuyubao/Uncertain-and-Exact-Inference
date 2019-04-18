@@ -249,11 +249,16 @@ the time consumed to caculate:  0.00027489662170410156
 
 
 <img src="pictures/pic6.2.2.1.png" width="750">
+
 ##### 6.2.2.1 Correctness
 It is correct. In the aima-alarm.xml example, the result is (0.2841718353643929, 0.7158281646356071).
+
 ##### 6.2.2.2 Amount of recursion called
+
 The recursion is called for much less times. In the aima-alarm.xml example, the amount of recursion called is 3.
+
 ##### 6.2.2.3 Time consumed
+
 It is quick since there is not many varibles. In the aima-alarm.xml example, the time consumed to calculate is 0.00027489662170410156 second.
 
 ### 6.3 Rejection sampling
